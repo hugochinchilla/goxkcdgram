@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>xkcd.com</title>
+    <link>http://xkcd.com/</link>
+    <description>xkcd.com: A webcomic of romance and math humor.</description>
+    <language>en</language>
+    <item>
+      <title>City Talk Pages</title>
+      <link>http://xkcd.com/1665/</link>
+      <description>&lt;img src=&quot;http://imgs.xkcd.com/comics/city_talk_pages.png&quot; title=&quot;I don't think the Lakeshore Air Crash Museum really belongs under 'Tourist Attractions.' It's not a museum--it's just an area near the Lake Festival Laser Show where a lot of planes have crashed.&quot; alt=&quot;I don't think the Lakeshore Air Crash Museum really belongs under 'Tourist Attractions.' It's not a museum--it's just an area near the Lake Festival Laser Show where a lot of planes have crashed.&quot; /&gt;</description>
+      <pubDate>Fri, 08 Apr 2016 04:00:00 -0000</pubDate>
+      <guid>http://xkcd.com/1665/</guid>
+    </item>
+    <item>
+      <title>Mycology</title>
+      <link>http://xkcd.com/1664/</link>
+      <description>&lt;img src=&quot;http://imgs.xkcd.com/comics/mycology.png&quot; title=&quot;Conspiracy theory: There's no such thing as corn. Those fields you see are just the stalks of a fungus that's controlling our brains to make us want to spread it.&quot; alt=&quot;Conspiracy theory: There's no such thing as corn. Those fields you see are just the stalks of a fungus that's controlling our brains to make us want to spread it.&quot; /&gt;</description>
+      <pubDate>Wed, 06 Apr 2016 04:00:00 -0000</pubDate>
+      <guid>http://xkcd.com/1664/</guid>
+    </item>
+    <item>
+      <title>Garden</title>
+      <link>http://xkcd.com/1663/</link>
+      <description>&lt;script src=&quot;http://linden0.xkcd.com/linden.js&quot; data-endpoint=&quot;http://linden.xkcd.com/&quot; data-image-endpoint=&quot;/1663/art/&quot; data-title=&quot;Relax.&quot;&gt;&lt;/script&gt;</description>
+      <pubDate>Mon, 04 Apr 2016 04:00:00 -0000</pubDate>
+      <guid>http://xkcd.com/1663/</guid>
+    </item>
+    <item>
+      <title>Jack and Jill</title>
+      <link>http://xkcd.com/1662/</link>
+      <description>&lt;img src=&quot;http://imgs.xkcd.com/comics/jack_and_jill.png&quot; title=&quot;Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.&quot; alt=&quot;Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.&quot; /&gt;</description>
+      <pubDate>Wed, 30 Mar 2016 04:00:00 -0000</pubDate>
+      <guid>http://xkcd.com/1662/</guid>
+    </item>
+  </channel>
+</rss>
